@@ -22,7 +22,7 @@ An MCP (Model Context Protocol) server for [Iagon](https://iagon.com) decentrali
 ### 2. Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/iagon-mcp-server.git
+git clone https://github.com/montlouismane/iagon-mcp-server.git
 cd iagon-mcp-server
 npm install
 npm run build
